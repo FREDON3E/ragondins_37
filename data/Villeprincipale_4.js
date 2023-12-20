@@ -1,0 +1,1 @@
+var json_Villeprincipale_4 = {"type":"FeatureCollection","name":"Villeprincipale_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3","Nom":"Tours"},"geometry":{"type":"Point","coordinates":[0.692842327644181,47.391234728577594]}}]}
